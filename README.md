@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me via twitter my user id : masoodahmed_a
+- 📫 You can reach me via twitter my user id : masoodahmed_a
 
 <!---
 masoodahmed-a/masoodahmed-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
